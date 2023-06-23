@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848275540452",
+    "project_id": "let-s-chat-fe14a",
+    "storage_bucket": "let-s-chat-fe14a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848275540452:android:eb6ec372bd632b4de89ff1",
+        "android_client_info": {
+          "package_name": "com.example.lets_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848275540452-lt8r1skfo421ngf6n0rf17umr9fgr7je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxW1eJESNHKvDUrVTD96EHFggv4FFYiB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848275540452-lt8r1skfo421ngf6n0rf17umr9fgr7je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
