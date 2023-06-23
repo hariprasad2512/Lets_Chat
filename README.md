@@ -1,6 +1,7 @@
-# Let's Chat
 
-A new Flutter project.
+# Let's Chat ⚡️
+
+A modern messaging app where users can sign up and log in to chat.
 
 ## Getting Started
 
